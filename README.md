@@ -1,2 +1,2 @@
 # Pairs-Trading
-We discuss a pairs trading strategy (for educational purposes only) using Correlation and Cointegration tests.
+Pairs trading is based on the idea of statistical arbitrage: We simultaneously buy one asset (go long) of the pair and sell the other related asset (go short). Our objective is to obtain profit from the relative performance of these assets. The idea/expectation is that two correlated assets will move in tandem over time and profit opportunities will arise when they diverge from their relationship.
